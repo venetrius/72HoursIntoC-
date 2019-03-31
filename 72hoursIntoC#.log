@@ -1,14 +1,31 @@
 How much can I learn in 72 hours? From Java to .Net.
 
-I am a Java developer who as an answear of the market, goint to learn .Net. 
-What about the 72 hours? It is a great motivation to have a short strickt deadline. And I also want to show off my skill to learn quickly. Not to 
-memorize, but to be able to use new concepcts.
-What do I know  right now? Not much, C# supposedly has a really similar  syntacx as Java. .Net is a huge collection of tools. I have Visual Studio
-Code in my laptop, and maybr a C# compiler as well. I will see it. What I do not know. What is the file extension for C#?
+<entry>
+I am a Java developer who as an answer to the market, going to learn .Net. 
+What about the 72 hours? It is a great motivation to have a short strict deadline. And I also want to show off my skill to learn quickly. Not to 
+memorize, but to be able to use new concepts.
+What do I know right now? Not much, C# supposedly has a really similar syntax as Java. .Net is a huge collection of tools. I have Visual Studio Code in my laptop, and maybe a C# compiler as well. I will see it. What I do not know. What is the file extension for C#?
 Time to learn. My first goal is 'Hello World' application and than a simple console application with input. 
-9:05 3.31.2019
-
-
+<timeStamp>9:05 3.31.2019</timeStamp>
+</entry>
 
 how to compile:  
 c:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe First.cs
+
+<entry name="SimpleConsoleApp">
+    <goals status="done">
+        <li g="read input string"/>
+        <li g="read input int"/>
+        <li g="try out error handling"/>
+    </goals>
+    <timeStamp>9:59 3.31.2019</timeStamp>
+</entry>
+
+sample:
+
+<entry>
+    <goals>
+        <li/>
+    </goals>
+    <timeStamp></timeStamp>
+</entry>
